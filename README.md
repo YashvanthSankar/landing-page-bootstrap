@@ -3,8 +3,6 @@
 A simple and responsive landing page built using **HTML**, **CSS**, and **Bootstrap 5**.  
 This project demonstrates the use of Bootstrap's grid system, components, and utilities to create a clean landing page UI.
 
----
-
 ## 🚀 Live Demo
 
 👉 [View Live Site](https://yashvanthsankar.github.io/landing-page-bootstrap)
